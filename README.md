@@ -1,5 +1,5 @@
 # 💫 About Me:
- ISE graduate
+ Information science and Engineering student
 
 
 # 💻 Tech Stack:
