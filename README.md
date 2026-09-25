@@ -1,15 +1,85 @@
-# 💫 About Me:
- Information science and Engineering student
+<div align="center">
 
+# AMULYA K M
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amulya333&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=amulya333&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amulya333&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Information Science & Engineering Student
+
+Aspiring Software Developer | AI & Machine Learning Enthusiast
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=amulya333&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+🎓 Information Science & Engineering student passionate about software development and emerging technologies.
+
+💻 Interested in backend development, full-stack development, artificial intelligence, and machine learning.
+
+🚀 I enjoy building practical projects and continuously improving my technical skills.
+
+---
+
+## Technical Skills
+
+**Languages:** Python, Java, C, JavaScript
+
+**Frontend:** HTML, CSS, JavaScript, React
+
+**Backend:** FastAPI
+
+**Databases:** MySQL, MongoDB, ChromaDB
+
+**AI / ML:** Scikit-learn, Pandas, Matplotlib, RAG
+
+**Tools:** Git, GitHub, Docker, VS Code
+
+---
+
+## Projects
+
+### Re-Imagine
+ML-based system that analyzes student assessment data, identifies learning gaps, and provides personalized recommendations.
+
+**Technologies:** Python, Scikit-learn, Pandas, Matplotlib, Tkinter
+
+### SmartAttend
+Location-based college attendance system designed to reduce proxy attendance by verifying student location.
+
+**Technologies:** FastAPI, React, MySQL
+
+### Hospital SOP RAG
+RAG-based system for retrieving relevant information from hospital Standard Operating Procedures.
+
+**Technologies:** Python, RAG, Embeddings, Vector Database, BM25, LLM
+
+### Amazon Backend System
+Backend system with APIs for customers, orders, payments, warehouse management, and coupons.
+
+**Technologies:** FastAPI, MySQL, Docker
+
+---
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- Artificial Intelligence
+- Backend Development
+- Full Stack Development
+
+---
+
+## Connect With Me
+
+[GitHub](https://github.com/amulya333) •
+[LinkedIn](https://www.linkedin.com/in/amulya-k-m-6193a72a6/) •
+[Email](mailto:amulyagowda187@gmail.com)
+
+---
+
+<div align="center">
+
+**Learning • Building • Improving**
+
+</div>
